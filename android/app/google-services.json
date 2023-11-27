@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23062678112",
+    "project_id": "suhumonitor",
+    "storage_bucket": "suhumonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23062678112:android:c3ad6f1b43928f92429105",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfeWRPKcjJK5AGP1m7taRZhokEFBJRTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
